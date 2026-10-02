@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="logotw.png" alt="TradingView" width="580">
+  <img src="https://github.com/TradingView-Library/Quant-Indicator/blob/master/logotw.png?raw=true" alt="TradingView" width="580">
 </p>
 
 # TradingView Quant™
