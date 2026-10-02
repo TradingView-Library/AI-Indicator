@@ -1,0 +1,2 @@
+# AI-Indicator
+TradingView Quant™
